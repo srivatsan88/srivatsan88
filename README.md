@@ -1,7 +1,7 @@
 ### This is Srivatsan. Let me provide you a quick Intro to my Data Science Courses and Content here <br/><br/>
 
 <b>My YouTube Channel Link -    </b>
-  <a href="https://www.youtube.com/c/AIEngineeringLife" target="_top">
+  <a href="https://www.youtube.com/c/AIEngineeringLife?sub_confirmation=1" target="_blank">
   <img height="30"
     alt="Youtube"
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
