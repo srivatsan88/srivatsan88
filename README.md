@@ -1,4 +1,4 @@
-### This is Srivatsan. Let me provide you a quick Intro to my Data Science Courses and Content here 👋
+### This is Srivatsan. Let me provide you a quick Intro to my Data Science Courses and Content here <br/><br/>
 
 <b>My YouTube Channel Link -    </b>
   <a href="https://www.youtube.com/c/AIEngineeringLife" target="_top">
@@ -8,7 +8,7 @@
   />
 </a>
 <b>      (Subscribe to stay updated on new videos and courses)   </b>
-
+<br/><br/>
 ### Below are list of courses available on my YouTube channel and they are absolutely free as well 👋
 <br/>
 <table>
