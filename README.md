@@ -1,6 +1,6 @@
 ### This is Srivatsan. Let me provide you a quick Intro to my GitHub repo 👋
 
-<a href="https://www.youtube.com/c/AIEngineeringLife">
+<a href="https://www.youtube.com/c/AIEngineeringLife" target="_blank">
   <img height="30"
     alt="Youtube"
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
