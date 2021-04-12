@@ -1,6 +1,14 @@
-### Hi there 👋
+### This is Srivatsan. Let me provide you a quick Intro to my GitHub repo 👋
 
-![youtube-logo.jpg](https://www.youtube.com/c/AIEngineeringLife)
+<a href="https://www.youtube.com/c/AIEngineeringLife">
+  <img height="30"
+    alt="Youtube"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCwBs8TLOogwyGd0GxHCp-Dw?style=social&logo=Youtube">
+
 
 <!--
 **srivatsan88/srivatsan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
