@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![youtube-logo.jpg](https://www.youtube.com/c/AIEngineeringLife)
+
 <!--
 **srivatsan88/srivatsan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
