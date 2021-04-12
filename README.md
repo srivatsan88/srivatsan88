@@ -27,11 +27,21 @@
 
 </table>
 
-<br/><br/>
+<br/>
 
 <table>
-<tr><td><a href="https://www.youtube.com/c/AIEngineeringLife?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCwBs8TLOogwyGd0GxHCp-Dw?style=social&logo=Youtube"></a></td><td><a href="https://www.youtube.com/c/AIEngineeringLife?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCwBs8TLOogwyGd0GxHCp-Dw?style=social"></a></td></tr>
+<tr><td><a href="https://www.youtube.com/c/AIEngineeringLife?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCwBs8TLOogwyGd0GxHCp-Dw?style=social&logo=Youtube"></a></td><td><a href="https://www.youtube.com/c/AIEngineeringLife?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCwBs8TLOogwyGd0GxHCp-Dw?style=social"></a></td><td><a href="https://github.com/srivatsan88" target="_blank"><img height="30" alt="LinkedIn Stars" src="https://img.shields.io/github/stars/srivatsan88?style=social"></a></td></tr>
 </table>
+
+<b>Follow me on LinkedIn where I post on Data Science Frequently -    </b>
+ <a href="https://www.linkedin.com/in/srivatsan-srinivasan-b8131b/" target="_blank">
+  <img height="30"
+    alt="Youtube"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+	
 
 <!--
 **srivatsan88/srivatsan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
