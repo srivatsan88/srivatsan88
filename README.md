@@ -27,8 +27,11 @@
 
 </table>
 
-<img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCwBs8TLOogwyGd0GxHCp-Dw?style=social&logo=Youtube">
+<br/><br/>
 
+<table>
+<tr><td><a href="https://www.youtube.com/c/AIEngineeringLife?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCwBs8TLOogwyGd0GxHCp-Dw?style=social&logo=Youtube"></a></td><td><a href="https://www.youtube.com/c/AIEngineeringLife?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCwBs8TLOogwyGd0GxHCp-Dw?style=social"></a></td></tr>
+</table>
 
 <!--
 **srivatsan88/srivatsan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
