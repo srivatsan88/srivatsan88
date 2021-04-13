@@ -13,15 +13,15 @@
 <br/>
 <table width="500" border="1">
 <tr><th bgcolor="yellow">Course Name</th><th>Course URL</th><th>GitHub Repo</th></tr>
-<tr><td><b>Google Cloud AI </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK" target="_blank">Click Here for GCP AI</a></td><td></td></tr>
+<tr><td><b>Google Cloud AI </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK" target="_blank">Click Here for GCP AI</a></td><td><a href="https://github.com/srivatsan88/google_cloud_AI_ML" target="_blank">GCP AI Repo</a></td></tr>
 
-<tr><td><b>End to End Time Series </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK" target="_blank">Click Here for Time Series</a></td><td></td></tr>
+<tr><td><b>End to End Time Series </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK" target="_blank">Click Here for Time Series</a></td><td><a href="https://github.com/srivatsan88/End-to-End-Time-Series" target="_blank">Time Series Repo</a></td></tr>
 
-<tr><td><b>Mastering Apache Spark </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PfpYrP6YxMNtt5Hw27ZlO" target="_blank">Click Here for Spark</a></td><td></td></tr>
+<tr><td><b>Mastering Apache Spark </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PfpYrP6YxMNtt5Hw27ZlO" target="_blank">Click Here for Spark</a></td><td><a href="https://github.com/srivatsan88/Mastering-Apache-Spark" target="_blank">Apache Spark Repo</a></td></tr>
 
 <tr><td><b>Mastering MLOps </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5a6OA473MA4KnOXWnUyV_J" target="_blank">Click Here for MLOps</a></td><td></td></tr>
 
-<tr><td><b>Machine Learning Model Deployment </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk" target="_blank">Click Here for ML Deployment</a></td><td></td></tr>
+<tr><td><b>Machine Learning Model Deployment </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk" target="_blank">Click Here for ML Deployment</a></td><td><a href="https://github.com/srivatsan88/model-deployment" target="_blank">Model Deployment Repo</a></td></tr>
 
 <tr><td><b>Machine Learning in Banking </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP4uLCtas5vxq09sWz6jJXrw" target="_blank">Click Here for ML in Banking</a></td><td></td></tr>
 
