@@ -23,6 +23,8 @@
 
 <tr><td><b>Machine Learning Model Deployment </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk" target="_blank">Click Here for ML Deployment</a></td><td></td></tr>
 
+<tr><td><b>Machine Learning in Banking </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP4uLCtas5vxq09sWz6jJXrw" target="_blank">Click Here for ML in Banking</a></td><td></td></tr>
+
 <tr><td><b>Applied Statistics for Machine Learning </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6IjkyExZW9oZFwt-A1r0qB" target="_blank">Click Here for Applied Stats</a></td><td></td></tr>
 
 <tr><td><b>ML Engineering </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU" target="_blank">Click Here for ML Engineering</a></td><td></td></tr>
@@ -44,6 +46,16 @@
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
+
+<br/>
+
+### Looking to build your data science portfolio.. Check below
+
+<table width="500" border="1">
+<tr><td><b>Machine Learning Projects </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP45DNfnYOiEOyFfv8Jihcok" target="_blank">Click Here</a></td></tr>
+<tr><td><b>How to build your data science portfolio </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP7RBbok898Yk0SsUw1O9urP" target="_blank">Click Here</a></td></tr>
+
+</table>
 
 ### Wait... Thats not all.. Check below short courses focussed on specific technology domain
 
