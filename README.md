@@ -23,7 +23,11 @@
 
 <tr><td><b>Machine Learning Model Deployment </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk" target="_blank">Click Here for ML Deployment</a></td><td></td></tr>
 
+<tr><td><b>Applied Statistics for Machine Learning </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6IjkyExZW9oZFwt-A1r0qB" target="_blank">Click Here for Applied Stats</a></td><td></td></tr>
+
 <tr><td><b>ML Engineering </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU" target="_blank">Click Here for ML Engineering</a></td><td></td></tr>
+
+<tr><td><b>Natural Language Processing </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc" target="_blank">Click Here for NLP</a></td><td></td></tr>
 
 </table>
 
@@ -41,6 +45,25 @@
   />
 </a>
 
+### Wait... Thats not all.. Check below short courses focussed on specific technology domain
+
+<table width="500" border="1">
+<tr><th bgcolor="yellow">Course Name</th><th>Course URL</th></tr>
+<tr><td><b>Anomaly Detection using Python </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5DflJUcymWEKhfhLx2MhRO" target="_blank">Click Here</a></td></tr>
+	
+<tr><td><b>Face Verification System </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP7UWzvf1FeAPsagQEG63ppz" target="_blank">Click Here</a></td></tr>
+
+<tr><td><b>Deep Learning Computer Vision </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5adcPkzsSY82hFUyOI62bz" target="_blank">Click Here</a></td></tr>
+
+<tr><td><b>Model Deployment on Google Cloud Platform </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP4VXtFJTjmGsqI-Emk2keVL" target="_blank">Click Here</a></td></tr>
+
+<tr><td><b>Automated Machine Learning </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5wZ99ZsULU7rtrWTjh_F5g" target="_blank">Click Here</a></td></tr>
+
+<tr><td><b>Apache Spark for Data Scientist </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP7MKqbOG3WL_zSJrEmJXLPx" target="_blank">Click Here</a></td></tr>
+
+<tr><td><b>Machine Learning on GPU </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP7OURN_5tlwPJwF3v3ZXqP2" target="_blank">Click Here</a></td></tr>
+
+</table>
 	
 
 <!--
