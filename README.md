@@ -25,15 +25,18 @@
 
 <tr><td><b>Machine Learning in Banking </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP4uLCtas5vxq09sWz6jJXrw" target="_blank">Click Here for ML in Banking</a></td><td></td></tr>
 
-<tr><td><b>Applied Statistics for Machine Learning </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6IjkyExZW9oZFwt-A1r0qB" target="_blank">Click Here for Applied Stats</a></td><td></td></tr>
+<tr><td><b>Applied Statistics for Machine Learning </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6IjkyExZW9oZFwt-A1r0qB" target="_blank">Click Here for Applied Stats</a></td><td><a href="https://github.com/srivatsan88/YouTubeLI/tree/master/statistics" target="_blank">Applied Stats Repo</a></td></tr>
 
 <tr><td><b>ML Engineering </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU" target="_blank">Click Here for ML Engineering</a></td><td></td></tr>
 
-<tr><td><b>Natural Language Processing </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc" target="_blank">Click Here for NLP</a></td><td></td></tr>
+<tr><td><b>Natural Language Processing </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc" target="_blank">Click Here for NLP</a></td><td><a href="https://github.com/srivatsan88/Natural-Language-Processing" target="_blank">NLP Repo</a></td></tr>
 
 </table>
-
 <br/>
+
+<b>Main github repo with all other code and datasets - <a href="https://github.com/srivatsan88/YouTubeLI" target="_blank">Main YouTube video code Repo</a></b>
+<br/><br/>
+
 
 <table>
 <tr><td><a href="https://www.youtube.com/c/AIEngineeringLife?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCwBs8TLOogwyGd0GxHCp-Dw?style=social&logo=Youtube"></a></td><td><a href="https://www.youtube.com/c/AIEngineeringLife?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCwBs8TLOogwyGd0GxHCp-Dw?style=social"></a></td><td><a href="https://github.com/srivatsan88" target="_blank"><img height="30" alt="LinkedIn Stars" src="https://img.shields.io/github/stars/srivatsan88?style=social"></a></td></tr>
